@@ -1,0 +1,11 @@
+C:\Users\Jense\source\repos\Lab 8 get to know your classmates\Lab 8 get to know your classmates\bin\Debug\netcoreapp2.1\Lab 8 get to know your classmates.deps.json
+C:\Users\Jense\source\repos\Lab 8 get to know your classmates\Lab 8 get to know your classmates\bin\Debug\netcoreapp2.1\Lab 8 get to know your classmates.runtimeconfig.json
+C:\Users\Jense\source\repos\Lab 8 get to know your classmates\Lab 8 get to know your classmates\bin\Debug\netcoreapp2.1\Lab 8 get to know your classmates.runtimeconfig.dev.json
+C:\Users\Jense\source\repos\Lab 8 get to know your classmates\Lab 8 get to know your classmates\bin\Debug\netcoreapp2.1\Lab 8 get to know your classmates.dll
+C:\Users\Jense\source\repos\Lab 8 get to know your classmates\Lab 8 get to know your classmates\bin\Debug\netcoreapp2.1\Lab 8 get to know your classmates.pdb
+C:\Users\Jense\source\repos\Lab 8 get to know your classmates\Lab 8 get to know your classmates\obj\Debug\netcoreapp2.1\Lab 8 get to know your classmates.csprojAssemblyReference.cache
+C:\Users\Jense\source\repos\Lab 8 get to know your classmates\Lab 8 get to know your classmates\obj\Debug\netcoreapp2.1\Lab 8 get to know your classmates.csproj.CoreCompileInputs.cache
+C:\Users\Jense\source\repos\Lab 8 get to know your classmates\Lab 8 get to know your classmates\obj\Debug\netcoreapp2.1\Lab 8 get to know your classmates.AssemblyInfoInputs.cache
+C:\Users\Jense\source\repos\Lab 8 get to know your classmates\Lab 8 get to know your classmates\obj\Debug\netcoreapp2.1\Lab 8 get to know your classmates.AssemblyInfo.cs
+C:\Users\Jense\source\repos\Lab 8 get to know your classmates\Lab 8 get to know your classmates\obj\Debug\netcoreapp2.1\Lab 8 get to know your classmates.dll
+C:\Users\Jense\source\repos\Lab 8 get to know your classmates\Lab 8 get to know your classmates\obj\Debug\netcoreapp2.1\Lab 8 get to know your classmates.pdb
